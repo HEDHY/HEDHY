@@ -3,7 +3,7 @@
 
 Hey 👋🏻,
 
-My name is Diana Rodrigues and i am trying the creator of HEDHY ( just another startup ) from Portugal :triangular_flag_on_post: . I am interested in developing (open source) software solutions
+My name is Diana Rodrigues and i am the creator of HEDHY ( just another startup ) from Portugal :triangular_flag_on_post: . I am interested in developing (open source) software solutions
 with **JavaScript** , **ReactJs** , **.Net Core** and **Python**.
 
 
